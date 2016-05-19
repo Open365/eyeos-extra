@@ -1,6 +1,6 @@
 {
-  "name": "eyeos-extra",
-  "version": "0.0.26",
+  "name": "eyeos-extras",
+  "version": "0.0.28",
   "description": "library to generate and recover eyeos licenses",
   "author": "eyeOS",
   "homepage": "http://www.eyeos.com/",
